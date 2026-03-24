@@ -1,4 +1,4 @@
-import React, { useCallback, useState } from 'react';
+import { useCallback, useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 import { ArrowLeft, Heart, Lock, ShoppingCart, Star, Trophy, Zap } from 'lucide-react';
 import { GameCanvas } from './components/game/game-canvas';

@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { ArrowLeft, Lock, Star } from 'lucide-react';
 import { CyberButton } from '../ui/cyber-button';
